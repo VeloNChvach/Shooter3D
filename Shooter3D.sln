@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooter3D.Plugins", "Shooter3D.Plugins.csproj", "{F4097BC9-92F6-237D-88EB-0A6EEE73000A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooter3D", "Shooter3D.csproj", "{D0DAF3C8-85F7-5991-E30D-4A9A796AF283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooter3D.Editor.Plugins", "Shooter3D.Editor.Plugins.csproj", "{FAA4D75E-5B89-B8C7-6F17-314EDE077746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4097BC9-92F6-237D-88EB-0A6EEE73000A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4097BC9-92F6-237D-88EB-0A6EEE73000A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4097BC9-92F6-237D-88EB-0A6EEE73000A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4097BC9-92F6-237D-88EB-0A6EEE73000A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0DAF3C8-85F7-5991-E30D-4A9A796AF283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DAF3C8-85F7-5991-E30D-4A9A796AF283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DAF3C8-85F7-5991-E30D-4A9A796AF283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DAF3C8-85F7-5991-E30D-4A9A796AF283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA4D75E-5B89-B8C7-6F17-314EDE077746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA4D75E-5B89-B8C7-6F17-314EDE077746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA4D75E-5B89-B8C7-6F17-314EDE077746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA4D75E-5B89-B8C7-6F17-314EDE077746}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
